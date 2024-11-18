@@ -40,9 +40,11 @@ print(greet_user("World"))  # Output: Welcome to @TunUsaha's GitHub, World!
 
 ✨ **This repository is a special one** because it represents the journey of continuous learning and growth.  
 🌟 Click the **Preview** link to discover more exciting things!  
-```
+
+---
 
 ```python
+# Introduce MySelf ⚡
 class Introduction:
     def __init__(self, name, major, interests, hobbies, email, github, kaggle):
         self.name = name
