@@ -9,7 +9,7 @@
 - 📚 Advanced Data Structures and Algorithms.  
 
 🏫 **Education:**  
-- 🎓 Currently studying **Modern Management Information Technology** at **CAMT Chiang Mai University**.  
+- 🎓 Currently studying **Modern Management and Information Technology** at **CAMT Chiang Mai University**.  
 - 📈 Focused on developing skills at the intersection of technology and management.
 
 🤝 **Looking to Collaborate On:**  
