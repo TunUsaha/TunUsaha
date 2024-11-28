@@ -18,8 +18,7 @@
 
 📫 **Reach Me At:**  
 - 📧 Email: [ahasunut@gmail.com](mailto:ahasunut@gmail.com)  
-- 💻 GitHub: [@TunUsaha](https://github.com/TunUsaha)  
-- 🏆 Kaggle: [@tunusaha](https://www.kaggle.com/tunusaha)  
+- 💻 Kaggle: [@tunusaha](https://www.kaggle.com/tunusaha)  
 
 🎨 **Hobbies:**  
 - 🚗 Car enthusiast and enjoy the thrill of driving.  
