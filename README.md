@@ -45,13 +45,12 @@ print(greet_user("World"))  # Output: Welcome to @TunUsaha's GitHub, World!
 ```python
 # Introduce MySelf ⚡
 class Introduction:
-    def __init__(self, name, major, interests, hobbies, email, github, kaggle):
+    def __init__(self, name, major, interests, hobbies, email, kaggle):
         self.name = name
         self.major = major
         self.interests = interests
         self.hobbies = hobbies
         self.email = email
-        self.github = github
         self.kaggle = kaggle
 
     def display_intro(self):
@@ -61,8 +60,7 @@ class Introduction:
         print(f"🎨 In my free time, I enjoy {', '.join(self.hobbies)}.")
         print("\n🔗 Connect with me:")
         print(f"📧 Email: {self.email}")
-        print(f"💻 GitHub: {self.github}")
-        print(f"🏆 Kaggle: {self.kaggle}")
+        print(f"💻 Kaggle: {self.kaggle}")
         
     def unique_message(self):
         print("\n✨ Fun Fact: I'm always eager to learn and explore new frontiers of technology! ✨")
@@ -75,7 +73,6 @@ my_intro = Introduction(
     interests=["Artificial Intelligence", "Machine Learning", "Technology Innovation"],
     hobbies=["driving cars", "basketball", "exploring new tech"],
     email="ahasunut@gmail.com",
-    github="https://github.com/TunUsaha",
     kaggle="https://www.kaggle.com/tunusaha"
 )
 
